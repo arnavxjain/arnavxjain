@@ -6,3 +6,7 @@
 ![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavxjain&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavxjain&repo=scoop&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/arnavxjain/scoop)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavxjain&repo=HorizonV8&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/arnavxjain/HorizonV8)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnavxjain&repo=PyMail-Assistant&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/arnavxjain/PyMail-Assistant)
