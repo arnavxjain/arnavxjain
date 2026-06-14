@@ -10,7 +10,7 @@ I build across the stack — mobile-first with Flutter, web with React & Vue, an
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Mobile & Web**
 `Flutter` `Dart` `React` `Vue` `JavaScript`
@@ -20,7 +20,7 @@ I build across the stack — mobile-first with Flutter, web with React & Vue, an
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
