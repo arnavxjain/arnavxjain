@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋🏼 Hi, I'm Arnav
+# 👋🏼 Hey, I'm Arnav
 
-**19 y/o developer · Mumbai, India**
+**20 y/o developer · Mumbai, India**
 
 I build across the stack — mobile-first with Flutter, web with React & Vue, and backends with Python & Flask. Recently diving deeper into AI/ML with TensorFlow for predictions and data pipelines.
 
